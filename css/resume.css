@@ -42,7 +42,10 @@ body{
   margin-top: 20px
 
 }
-.About-me h3 {
+.About-me h2 {
   margin-top: 20px;
   margin-bottom:15px;
+}
+.About-me p{
+  margin-top:15px;
 }
