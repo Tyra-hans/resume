@@ -42,6 +42,7 @@ body{
 .social-media h2{
   margin-top: 20px;
   font-size: 40px;
+  color: #FC8600  ;
 }
 .social-media {
   margin-top: 20px;
@@ -55,6 +56,7 @@ body{
 .About-me h2 {
   margin-top: 20px;
   margin-bottom:15px;
+  color: #FC8600  ;
 }
 .About-me ol{
   margin-top:20px;
@@ -71,6 +73,7 @@ body{
 .h1{
   font-size: 50px;
   margin-left:15px;
+  color: #FC8600  ;
 }
 .list {
   margin-bottom: 15px;
@@ -110,6 +113,7 @@ input[type=submit] {
   border-radius: 5px;
   background-color: #1C2833;
   padding: 20px;
-  margin-left: 30%;
-  float: right;
+  margin-left: 35%;
+  width: 100%;
+
 }
