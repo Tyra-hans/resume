@@ -17,7 +17,7 @@ body{
 .profile-img img{
   width:100%;
   height:100%;
-  border-radius: 10px;
+  border-radius: 4px;
 }
 .About{
   margin-left: 15px;
@@ -41,10 +41,12 @@ body{
 }
 .social-media h2{
   margin-top: 20px;
+  font-size: 40px;
 }
 .social-media {
-  margin-top: 20px
-  margin-left:15px;
+  margin-top: 20px;
+  float:right;
+
 }
 .About-me {
   margin-top: 20px
@@ -76,4 +78,38 @@ body{
 .projects{
   margin-top: 15px;
 
+}
+.projects p{
+  margin-bottom: 15px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #959CA1;
+  border-radius: 4px;
+  box-sizing: border-box; ]
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #9598A1;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
+
+.container {
+  border-radius: 5px;
+  background-color: #1C2833;
+  padding: 20px;
+  margin-left: 30%;
+  float: right;
 }
