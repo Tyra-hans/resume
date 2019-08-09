@@ -46,6 +46,11 @@ body{
   margin-top: 20px;
   margin-bottom:15px;
 }
-.About-me p{
-  margin-top:15px;
+.About-me ol{
+  margin-top:20px;
+  margin-left: 15px;
+}
+.About-me ul {
+  margin-top:20px;
+  margin-left:15px;
 }
