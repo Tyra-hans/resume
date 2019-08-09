@@ -39,9 +39,11 @@ body{
   margin-right: 15px;
 
 }
-.social-media h2{
+.container h2{
   margin-top: 20px;
+  margin-bottom: 15px;
   font-size: 40px;
+  text-align: center;
   color: #FC8600  ;
 }
 .social-media {
